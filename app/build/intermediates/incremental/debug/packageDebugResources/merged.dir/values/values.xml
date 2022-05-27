@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="chat_background">#8BC34A</color>
+    <color name="chatbackground">#AAAAAA</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#0b6156</color>
+    <color name="colorPrimaryDark">#095049</color>
+    <color name="fb_color">#3c5793</color>
+    <color name="grayBackground">#BCBCBC</color>
+    <color name="lightGrey">#EDEDED</color>
+    <color name="lightgreen">#e5ffcc</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#9F0B0B</color>
+    <color name="settingsIconColor">#0E8374</color>
+    <color name="status_background">#009688</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="whatsAppColor">#0b6156</color>
+    <string name="app_name">Bakaiti</string>
+    <string name="default_web_client_id" translatable="false">35674209006-ie013s22136n1tvp8nd9v4auc93mq27s.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">35674209006</string>
+    <string name="google_api_key" translatable="false">AIzaSyDzerSl95lz39UKBPHZyak1lVYjUrdQihI</string>
+    <string name="google_app_id" translatable="false">1:35674209006:android:cfc10d7af20357fb05d1ff</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDzerSl95lz39UKBPHZyak1lVYjUrdQihI</string>
+    <string name="google_storage_bucket" translatable="false">bakaiti-e1bd7.appspot.com</string>
+    <string name="project_id" translatable="false">bakaiti-e1bd7</string>
+    <style name="Theme.Bakaiti" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

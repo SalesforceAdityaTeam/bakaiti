@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bakaiti.iml" filepath="$PROJECT_DIR$/.idea/modules/Bakaiti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bakaiti.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bakaiti.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bakaiti.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bakaiti.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bakaiti.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bakaiti.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bakaiti.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bakaiti.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

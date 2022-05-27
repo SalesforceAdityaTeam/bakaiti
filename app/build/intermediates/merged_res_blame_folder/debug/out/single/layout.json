@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.bakaiti.app-mergeDebugResources-28:/layout/activity_sign_up.xml",
+        "source": "com.example.bakaiti.app-main-31:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.bakaiti.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.example.bakaiti.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.bakaiti.app-mergeDebugResources-28:/layout/activity_sign_in.xml",
+        "source": "com.example.bakaiti.app-main-31:/layout/activity_sign_in.xml"
+    }
+]
